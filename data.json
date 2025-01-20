@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Jane Doe",
+    "charity": "Charity A",
+    "tiesToArmsTrade": ["Company X", "Company Y"],
+    "role": "Trustee",
+    "tags": ["Charity A", "Company X"]
+  },
+  {
+    "name": "John Smith",
+    "charity": "Charity B",
+    "tiesToArmsTrade": ["Company Z"],
+    "role": "Chair",
+    "tags": ["Charity B", "Company Z"]
+  }
+]
